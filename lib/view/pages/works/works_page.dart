@@ -51,7 +51,7 @@ class WorksPage extends StatelessWidget {
               title: CommonText.project1,
               subTitle: CommonText.project1Des,
               buttonTitle: CommonText.codeButton,
-              uri: 'https://github.com/',
+              uri: CommonUri.personalPortfolio,
             ),
             // Second project.
             WorksInfo(

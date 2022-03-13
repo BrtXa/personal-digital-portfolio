@@ -1,6 +1,5 @@
 import 'package:digital_portfolio/common/palette.dart';
 import 'package:digital_portfolio/common/texts.dart';
-import 'package:digital_portfolio/controller/routes/app_routes.dart';
 import 'package:digital_portfolio/view/components/rounded_button.dart';
 import 'package:flutter/material.dart';
 

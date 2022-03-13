@@ -5,7 +5,6 @@ import 'package:digital_portfolio/common/website_uri.dart';
 import 'package:digital_portfolio/view/components/footer.dart';
 import 'package:digital_portfolio/view/components/navbar.dart';
 import 'package:digital_portfolio/view/pages/educations/components/certificates_list.dart';
-import 'package:digital_portfolio/view/pages/educations/components/educations_header_body.dart';
 import 'package:digital_portfolio/view/pages/educations/components/educations_header_description.dart';
 import 'package:digital_portfolio/view/pages/educations/components/institution_info.dart';
 import 'package:digital_portfolio/view/pages/educations/educations_header.dart';

@@ -1,4 +1,5 @@
 class CommonUri {
+  static const personalPortfolio = "https://github.com/BrtXa/personal-digital-portfolio";
   static const pippipApp = "https://github.com/BrtXa/pippip-user-app-ui";
   static const college = "https://www.hust.edu.vn/";
   static const highSchool = "https://ntthnue.edu.vn/";

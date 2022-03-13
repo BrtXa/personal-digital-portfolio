@@ -1,7 +1,6 @@
 import 'package:digital_portfolio/common/palette.dart';
 import 'package:digital_portfolio/common/texts.dart';
 import 'package:digital_portfolio/view/components/rounded_button.dart';
-import 'package:digital_portfolio/view/pages/educations/educations_page.dart';
 import 'package:flutter/material.dart';
 
 // This is the body of the EducationSection. It has some texts
