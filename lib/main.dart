@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: "My Portfolio",
+      title: "Portfolio of HMD",
       theme: ThemeData(
         primaryColor: myColors[mainBlue],
         scaffoldBackgroundColor: Colors.white,
