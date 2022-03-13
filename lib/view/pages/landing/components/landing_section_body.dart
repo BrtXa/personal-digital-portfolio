@@ -42,7 +42,7 @@ class LandingSectionBody extends StatelessWidget {
             RoundedButton(
               title: "About me",
               textColor: myColors[subBlue]!,
-              borderColor: myColors[mainBlue]!,
+              borderColor: myColors[subBlue]!,
               buttonColor: myColors[mainBlue]!,
               fontSize: 35,
               uri: '/landing',
